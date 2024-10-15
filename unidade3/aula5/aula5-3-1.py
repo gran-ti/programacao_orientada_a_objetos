@@ -1,7 +1,5 @@
 import numpy as np
 import keras
-from keras.models import Sequential
-from keras.layers import Dense
 
 class Produto:
     def __init__ (self, nome, preco):
